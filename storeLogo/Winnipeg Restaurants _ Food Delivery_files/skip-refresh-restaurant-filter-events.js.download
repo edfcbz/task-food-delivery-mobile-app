@@ -1,0 +1,1 @@
+window.skipthedishes=window.skipthedishes||{},window.skipthedishes.RestaurantFilterEvents=function($){return{init:function(){var events={};return function(id){var callbacks,event=id&&events[id];return event||(callbacks=$.Callbacks(),event={publish:callbacks.fire,subscribe:callbacks.add,unsubscribe:callbacks.remove},id&&(events[id]=event)),event}}}}(jQuery);
