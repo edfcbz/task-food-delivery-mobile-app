@@ -1,0 +1,80 @@
+ca/skipthedishes/skipthedishesfooddelivery/SettingsActivity.java
+ ca.skipthedishes.skipthedishesfooddelivery.SettingsActivity
+ ca.skipthedishes.skipthedishesfooddelivery.SettingsActivity$1
+ ca.skipthedishes.skipthedishesfooddelivery.SettingsActivity$2
+ ca.skipthedishes.skipthedishesfooddelivery.SettingsActivity$2$1
+ ca.skipthedishes.skipthedishesfooddelivery.SettingsActivity$2$2
+ ca.skipthedishes.skipthedishesfooddelivery.SettingsActivity$3
+ca/skipthedishes/skipthedishesfooddelivery/StoreActivity.java
+ ca.skipthedishes.skipthedishesfooddelivery.StoreActivity
+ ca.skipthedishes.skipthedishesfooddelivery.StoreActivity$1
+ ca.skipthedishes.skipthedishesfooddelivery.StoreActivity$2
+ ca.skipthedishes.skipthedishesfooddelivery.StoreActivity$3
+ ca.skipthedishes.skipthedishesfooddelivery.StoreActivity$3$1
+ ca.skipthedishes.skipthedishesfooddelivery.StoreActivity$3$2
+ ca.skipthedishes.skipthedishesfooddelivery.StoreActivity$4
+ ca.skipthedishes.skipthedishesfooddelivery.StoreActivity$Http
+ ca.skipthedishes.skipthedishesfooddelivery.StoreActivity$Http$1
+ ca.skipthedishes.skipthedishesfooddelivery.StoreActivity$HttpStore
+ ca.skipthedishes.skipthedishesfooddelivery.StoreActivity$HttpStore$1
+bean/HttpService.java
+ bean.HttpService
+bean/Order.java
+ bean.Order
+bean/NetworkUtils.java
+ bean.NetworkUtils
+bean/Product.java
+ bean.Product
+bean/ProductDescription.java
+ bean.ProductDescription
+bean/LittleCar.java
+ bean.LittleCar
+bean/Store.java
+ bean.Store
+ca/skipthedishes/skipthedishesfooddelivery/BuildConfig.java
+ ca.skipthedishes.skipthedishesfooddelivery.BuildConfig
+bean/Aplicacao.java
+ bean.Aplicacao
+ca/skipthedishes/skipthedishesfooddelivery/OrderHeader.java
+ ca.skipthedishes.skipthedishesfooddelivery.OrderHeader
+ca/skipthedishes/skipthedishesfooddelivery/MyOrderItemAdapter.java
+ ca.skipthedishes.skipthedishesfooddelivery.MyOrderItemAdapter
+ ca.skipthedishes.skipthedishesfooddelivery.MyOrderItemAdapter$1
+ ca.skipthedishes.skipthedishesfooddelivery.MyOrderItemAdapter$MyBaseAdapterViewHolder
+ ca.skipthedishes.skipthedishesfooddelivery.MyOrderItemAdapter$MyBodyAdapterViewHolder
+ ca.skipthedishes.skipthedishesfooddelivery.MyOrderItemAdapter$MyHeaderAdapterViewHolder
+bean/GsonUtils.java
+ bean.GsonUtils
+ bean.GsonUtils$1
+bean/Message.java
+ bean.Message
+ca/skipthedishes/skipthedishesfooddelivery/OrderActivity.java
+ ca.skipthedishes.skipthedishesfooddelivery.OrderActivity
+ ca.skipthedishes.skipthedishesfooddelivery.OrderActivity$1
+ ca.skipthedishes.skipthedishesfooddelivery.OrderActivity$2
+ ca.skipthedishes.skipthedishesfooddelivery.OrderActivity$2$1
+ ca.skipthedishes.skipthedishesfooddelivery.OrderActivity$2$2
+ ca.skipthedishes.skipthedishesfooddelivery.OrderActivity$3
+ ca.skipthedishes.skipthedishesfooddelivery.OrderActivity$3$1
+ ca.skipthedishes.skipthedishesfooddelivery.OrderActivity$3$2
+ca/skipthedishes/skipthedishesfooddelivery/MyAdapterProduct.java
+ ca.skipthedishes.skipthedishesfooddelivery.MyAdapterProduct
+ ca.skipthedishes.skipthedishesfooddelivery.MyAdapterProduct$MyAdapterViewHolder
+ca/skipthedishes/skipthedishesfooddelivery/MyAdapterOrderBody.java
+ ca.skipthedishes.skipthedishesfooddelivery.MyAdapterOrderBody
+ ca.skipthedishes.skipthedishesfooddelivery.MyAdapterOrderBody$MyAdapterViewHolder
+bean/Address.java
+ bean.Address
+bean/OrderItem.java
+ bean.OrderItem
+ca/skipthedishes/skipthedishesfooddelivery/MyAdapterStore.java
+ ca.skipthedishes.skipthedishesfooddelivery.MyAdapterStore
+ ca.skipthedishes.skipthedishesfooddelivery.MyAdapterStore$1
+ ca.skipthedishes.skipthedishesfooddelivery.MyAdapterStore$MyAdapterViewHolder
+ca/skipthedishes/skipthedishesfooddelivery/MainActivity.java
+ ca.skipthedishes.skipthedishesfooddelivery.MainActivity
+ ca.skipthedishes.skipthedishesfooddelivery.MainActivity$1
+ ca.skipthedishes.skipthedishesfooddelivery.MainActivity$2
+ ca.skipthedishes.skipthedishesfooddelivery.MainActivity$3
+ ca.skipthedishes.skipthedishesfooddelivery.MainActivity$Http
+ ca.skipthedishes.skipthedishesfooddelivery.MainActivity$Http$1

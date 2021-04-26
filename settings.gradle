@@ -1,0 +1,4 @@
+include ':app'
+include 'gson:2.8.6'
+include 'retrofit:2.9.0'
+rootProject.name = "FoodDeliveryConcept"

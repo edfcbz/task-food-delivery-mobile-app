@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Concept d application de livraison de nourriture</string>
+    <string name="settings">Paramètres</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="order">Ordre</string>
+    <string name="search_your_restaurant_by_name">Recherchez votre restaurant par nom</string>
+    <string name="select_store">Sélectionnez un restaurant</string>
+    <string name="line">_________________________________________</string>
+</resources>

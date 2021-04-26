@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\FoodDeliveryConcept\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_alemao.png.flat",
+        "source": "D:\\FoodDeliveryConcept\\app\\src\\main\\res\\mipmap-hdpi\\ic_alemao.png"
+    },
+    {
+        "merged": "D:\\FoodDeliveryConcept\\app\\build\\intermediates\\res\\merged\\debug\\layout_my_adapter_store.xml.flat",
+        "source": "D:\\FoodDeliveryConcept\\app\\src\\main\\res\\layout\\my_adapter_store.xml"
+    },
+    {
+        "merged": "D:\\FoodDeliveryConcept\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\FoodDeliveryConcept\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\FoodDeliveryConcept\\app\\build\\intermediates\\res\\merged\\debug\\layout_my_adapter_product.xml.flat",
+        "source": "D:\\FoodDeliveryConcept\\app\\src\\main\\res\\layout\\my_adapter_product.xml"
+    },
+    {
+        "merged": "D:\\FoodDeliveryConcept\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "D:\\FoodDeliveryConcept\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "D:\\FoodDeliveryConcept\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.png.flat",
+        "source": "D:\\FoodDeliveryConcept\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\FoodDeliveryConcept\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_order.xml.flat",
+        "source": "D:\\FoodDeliveryConcept\\app\\src\\main\\res\\layout\\activity_order.xml"
+    },
+    {
+        "merged": "D:\\FoodDeliveryConcept\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_store.xml.flat",
+        "source": "D:\\FoodDeliveryConcept\\app\\src\\main\\res\\layout\\activity_store.xml"
+    },
+    {
+        "merged": "D:\\FoodDeliveryConcept\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\FoodDeliveryConcept\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\FoodDeliveryConcept\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\FoodDeliveryConcept\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\FoodDeliveryConcept\\app\\build\\intermediates\\res\\merged\\debug\\layout_my_adapter_order_head.xml.flat",
+        "source": "D:\\FoodDeliveryConcept\\app\\src\\main\\res\\layout\\my_adapter_order_head.xml"
+    },
+    {
+        "merged": "D:\\FoodDeliveryConcept\\app\\build\\intermediates\\res\\merged\\debug\\layout_my_adapter_order_body.xml.flat",
+        "source": "D:\\FoodDeliveryConcept\\app\\src\\main\\res\\layout\\my_adapter_order_body.xml"
+    },
+    {
+        "merged": "D:\\FoodDeliveryConcept\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\FoodDeliveryConcept\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\FoodDeliveryConcept\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\FoodDeliveryConcept\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\FoodDeliveryConcept\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
+        "source": "D:\\FoodDeliveryConcept\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "D:\\FoodDeliveryConcept\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\FoodDeliveryConcept\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

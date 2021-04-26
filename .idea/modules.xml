@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FoodDeliveryConcept.iml" filepath="$PROJECT_DIR$/.idea/modules/FoodDeliveryConcept.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FoodDeliveryConcept.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FoodDeliveryConcept.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gson/FoodDeliveryConcept.gson.iml" filepath="$PROJECT_DIR$/.idea/modules/gson/FoodDeliveryConcept.gson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gson/2.8.6/FoodDeliveryConcept.gson.2.8.6.iml" filepath="$PROJECT_DIR$/.idea/modules/gson/2.8.6/FoodDeliveryConcept.gson.2.8.6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/retrofit/FoodDeliveryConcept.retrofit.iml" filepath="$PROJECT_DIR$/.idea/modules/retrofit/FoodDeliveryConcept.retrofit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/retrofit/2.9.0/FoodDeliveryConcept.retrofit.2.9.0.iml" filepath="$PROJECT_DIR$/.idea/modules/retrofit/2.9.0/FoodDeliveryConcept.retrofit.2.9.0.iml" />
+    </modules>
+  </component>
+</project>

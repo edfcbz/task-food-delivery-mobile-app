@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/mainActivity">
+
+    <activity
+        android:id="@+id/mainActivity"
+        android:name="ca.skipthedishes.skipthedishesfooddelivery.MainActivity"
+        android:label="activity_main"
+        tools:layout="@layout/activity_main" />
+    <activity
+        android:id="@+id/settingsActivity"
+        android:name="ca.skipthedishes.skipthedishesfooddelivery.SettingsActivity"
+        android:label="activity_settings"
+        tools:layout="@layout/activity_settings" />
+    <activity
+        android:id="@+id/orderActivity"
+        android:name="ca.skipthedishes.skipthedishesfooddelivery.OrderActivity"
+        android:label="activity_order"
+        tools:layout="@layout/activity_order" />
+    <activity
+        android:id="@+id/storeActivity"
+        android:name="ca.skipthedishes.skipthedishesfooddelivery.StoreActivity"
+        android:label="activity_store"
+        tools:layout="@layout/activity_store" />
+</navigation>
