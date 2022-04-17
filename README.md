@@ -25,10 +25,10 @@ Download the complete project by GitHub option
 * 9 - Running java main class
 
 ## ⚙️ Testing environment
-* 10 - <Updating>
+* 10 - In development
 
 ## ⚙️ Documentation
-* 11 - <Updating>
+* 11 - In development
 
 ## 🛠️ Building tools
 
